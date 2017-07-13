@@ -1,0 +1,11 @@
+@import '../../theme/variables';
+
+.links {
+    padding: $padding-sm;
+    list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
+    color: $color-fg-primary;
+};

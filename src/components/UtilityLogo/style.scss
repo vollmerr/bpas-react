@@ -1,0 +1,6 @@
+@import '../../theme/variables';
+
+.logo {
+    height: floor($header-height / 3 - (2 * $padding-sm));
+    padding: $padding-sm;
+}

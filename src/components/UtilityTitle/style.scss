@@ -1,0 +1,8 @@
+@import '../../theme/variables';
+
+.title {
+    flex: 1;
+    padding: $padding-sm;
+    color: $color-fg-primary;  
+    font-size: $font-lg;
+}
